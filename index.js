@@ -10,5 +10,5 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // app.use(express.static(path.join(__dirname, "public")));
-app.use(express.static("public"));
+app.use(express.static("client"));
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
