@@ -122,7 +122,7 @@ function showError(error) {
 
 //GET WEATHER FROM API PROVIDER
 function getWeather(lat, lon) {
-  let api = `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${key}`;
+  let api = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${key}`;
   let forcastApi = `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&exclude=current,hourly,minutely&appid=${key}`;
 
   //api call for current weather
