@@ -1,0 +1,47 @@
+* [33mcommit 90396c2953f3c88edd39c45c454ecff927f65f5d[m[33m ([m[1;36mHEAD -> [m[1;32mbootstrap[m[33m, [m[1;31morigin/bootstrap[m[33m)[m
+[31m|[m Author: Jordan Yefet <Jordan.Yefet90@gmail.com>
+[31m|[m Date:   Tue Jun 23 15:00:00 2020 +0300
+[31m|[m 
+[31m|[m     UI changes
+[31m|[m 
+* [33mcommit bd06cb010a98db72273418464a8b80957ea6afd6[m[33m ([m[1;33mtag: v2.0[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Jordan Yefet <Jordan.Yefet90@gmail.com>
+[31m|[m Date:   Tue Jun 16 01:00:10 2020 +0300
+[31m|[m 
+[31m|[m     added forcast feature
+[31m|[m 
+* [33mcommit a1d1dd78704493d803d9dbb57ac0582883892866[m
+[31m|[m Author: Jordan Yefet <Jordan.Yefet90@gmail.com>
+[31m|[m Date:   Mon Jun 15 17:07:16 2020 +0300
+[31m|[m 
+[31m|[m     Working with 1 Daily API
+[31m|[m 
+* [33mcommit ac6ad300d8454d39b67f0e4036949dc4c8d7ea3e[m
+[31m|[m Author: Jordan Yefet <Jordan.Yefet90@gmail.com>
+[31m|[m Date:   Mon Jun 15 17:06:11 2020 +0300
+[31m|[m 
+[31m|[m     Working with 2 API. 1 for current and 1 for daily
+[31m|[m 
+* [33mcommit 4207b5738663a395aa98f09cae0bc7cefe8f11f3[m[33m ([m[1;31morigin/forcast[m[33m)[m
+[31m|[m Author: Jordan Yefet <Jordan.Yefet90@gmail.com>
+[31m|[m Date:   Mon Jun 15 12:49:21 2020 +0300
+[31m|[m 
+[31m|[m     adding forcast
+[31m|[m 
+* [33mcommit c52dcea0294eb22c5682109189487b80912ebc5d[m[33m ([m[1;31morigin/working-template[m[33m)[m
+[31m|[m Author: Jordan Yefet <Jordan.Yefet90@gmail.com>
+[31m|[m Date:   Mon Jun 15 01:43:47 2020 +0300
+[31m|[m 
+[31m|[m     app.js modified
+[31m|[m 
+* [33mcommit cdea6ee45e9274f76607dadd296e5ec89b069fba[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+[31m|[m Author: Jordan Yefet <Jordan.Yefet90@gmail.com>
+[31m|[m Date:   Mon Jun 15 01:36:32 2020 +0300
+[31m|[m 
+[31m|[m     added app.js
+[31m|[m 
+* [33mcommit 3a5df2e623f7d11ebe0c1024f53e3925b0a3eba6[m[33m ([m[1;31morigin/app-js[m[33m)[m
+  Author: Jordan Yefet <Jordan.Yefet90@gmail.com>
+  Date:   Sun Jun 14 21:46:26 2020 +0300
+  
+      style.css and index.html files added

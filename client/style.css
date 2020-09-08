@@ -1,0 +1,130 @@
+* {
+  font-family: "Rimouski";
+  margin: 2px;
+}
+
+body {
+  background-color: #293251;
+}
+
+.container {
+  max-width: 650px;
+  min-width: 600px;
+  background-color: #fff;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+  padding-bottom: 50px;
+}
+
+.location {
+  width: 300px;
+  height: 50px;
+  border-radius: 10px 10px 0 0;
+  margin: auto;
+  display: flex;
+}
+
+.location p {
+  text-align: center;
+  padding: 15px;
+  margin: 0 auto;
+  font-size: 1.2em;
+  color: #293251;
+}
+
+.notification {
+  background-color: #f8d7da;
+  display: none;
+}
+
+.notification p {
+  color: #721c24;
+  font-size: 1.2em;
+  margin: 0;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.weather-container {
+  width: auto;
+  height: auto;
+  background-color: #ffffff;
+  margin: auto;
+}
+
+.weather-box {
+  width: 128px;
+  height: 270px;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+.weather-icon {
+  width: 128px;
+  height: 128px;
+  margin: auto;
+  /* text-align: center; */
+}
+
+.weather-forcast-container {
+  display: flex;
+  height: 250px;
+  font-size: 0.8em;
+}
+
+.weather-forcast-container .weather-icon img {
+  width: 100px;
+  height: 100px;
+}
+
+.weather-forcast-container .weather-icon {
+  width: 100px;
+  height: 100px;
+}
+
+.weather-forcast-container .weather-box {
+  height: 230px;
+}
+
+.temperature-value {
+  width: 128px;
+  height: 60px;
+  margin: auto;
+}
+
+.temperature-value p {
+  padding: 0;
+  margin: 0;
+  color: #293251;
+  font-size: 4em;
+  text-align: center;
+}
+
+.temperature-value span {
+  color: #293251;
+  font-size: 0.5em;
+}
+
+.temperature-description {
+  /* padding: 8px; */
+  /* width: auto; */
+
+  margin: auto;
+  color: #293251;
+  /* text-align: center; */
+  /* font-size: 1.2em; */
+}
+
+.app-title p {
+  margin: 0;
+  padding: 0;
+  color: #293251;
+  text-align: center;
+  font-size: 0.8em;
+}
+
+.date {
+  /* font-size: 0.9em; */
+}
